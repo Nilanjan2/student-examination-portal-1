@@ -1,0 +1,14 @@
+Name of the student : nil 
+Roll of the student : 56 
+Stream of the student : ECE 
+Your Student ID is : ECE2256
+
+Marks obtained in Math is : 78 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 96 
+Marks obtained in Python is : 56 
+Marks obtained in Biology is : 75 
+Marks obtained in English is : 45 
+
+You have got 439 in total with 87%
+Good Performance... You got grade C.
